@@ -18,8 +18,8 @@
 
 
 
-##### My Github Stats
-![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizyzd&show_icons=true&theme=dracula&hide=stars)
+<!-- ##### My Github Stats
+![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizyzd&show_icons=true&theme=dracula&hide=stars) -->
 
 
 <picture>
