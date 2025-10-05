@@ -2,8 +2,6 @@
 
 ![Hafiz](img/github-header-image%20(1).png)
 
-
-- 🔭 I’m currently Internship on Directorate General of Customs and Excise
 ##### Skills
 
 ##### Programming🧑‍💻
