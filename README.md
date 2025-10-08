@@ -2,8 +2,6 @@
 
 ![Hafiz](img/github-header-image%20(1).png)
 
-##### Skills
-
 ##### Programming🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=html,java,javascript,php,nodejs,laravel,mysql,bootstrap,c,cpp,dart,go,ai,nextjs,postman,py,react,tensorflow,postgres,anaconda,aws,flask&theme=light)](https://skillicons.dev)
 
