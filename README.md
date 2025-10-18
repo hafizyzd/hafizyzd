@@ -1,6 +1,8 @@
 <!-- ![forger](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZodXQ0MjMxemNwcGx4M3E3M2hodDFidDdyeXIxamF3bWR3ZDl4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPBztGGP7CELsNG/giphy.gif) -->
 
 ![Hafiz](img/github-header-image%20(1).png)
+#####Resume
+#Fresh graduate of Telkom University's Information Technology program, specializing in full-stack programming. Experienced in designing and building responsive and secure web applications using Laravel, VueJS, NodeJS, and relational databases such as MySQL and Oracle SQL. Familiar with clean architecture approaches, performance optimization, and efficient API development. Actively contributes to full- stack programming projects with measurable results and is ready to make a positive impact as a solution- oriented full- stack programmer.
 
 ##### Programming🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=html,java,javascript,php,nodejs,laravel,mysql,bootstrap,c,cpp,dart,go,ai,nextjs,postman,py,react,tensorflow,postgres,anaconda,aws,flask&theme=light)](https://skillicons.dev)
