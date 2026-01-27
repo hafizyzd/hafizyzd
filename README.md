@@ -5,7 +5,7 @@
 ##### Fresh graduate of Telkom University's Information Technology program, specializing in full-stack programming. Experienced in designing and building responsive and secure web applications using Laravel, VueJS, NodeJS, and relational databases such as MySQL and Oracle SQL. Familiar with clean architecture approaches, performance optimization, and efficient API development. Actively contributes to full- stack programming projects with measurable results and is ready to make a positive impact as a solution- oriented full- stack programmer.
 
 ##### Programming🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,html,javascript,php,nodejs,laravel,mysql,bootstrap,c,postman,py,,tensorflow,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,html,javascript,php,nodejs,laravel,mysql,bootstrap,c,postman,py,tensorflow,flask&theme=light)](https://skillicons.dev)
 
 
 ##### Connect with me
