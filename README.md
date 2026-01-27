@@ -7,15 +7,6 @@
 ##### Programming🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,html,javascript,php,nodejs,laravel,mysql,bootstrap,c,postman,py,tensorflow,flask&theme=light)](https://skillicons.dev)
 
-
-##### Connect with me
-
-![https://www.instagram.com/yazidd1993/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/hafiz-yazid-muhammad/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://open.spotify.com/user/313zi3pavqynqvahqy52alk4ezqm?si=8d9a5e2587bd44f1](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-
-
-
 <!-- ##### My Github Stats
 ![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizyzd&show_icons=true&theme=dracula&hide=stars) -->
 
